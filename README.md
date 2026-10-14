@@ -11,12 +11,12 @@ Exploring Machine Learning, AI and Data Science
 
 Building my programming fundamentals and learning through hands-on projects.
 
-# Skills & Technologies
+## Skills & Technologies
 - **Languages:** C++ (basics)
 - **Currently Learning:** Python, Git & GitHub
 - **Interests:** Machine Learning, AI and Data Science 
 
-# Projects
+## Projects
 I'm currently building projects to strengthen my programming skills and apply what I learn.
 
 *Learning by building. Improving one project at a time.*
